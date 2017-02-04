@@ -1,1 +1,3 @@
 $ git push origin
+language: ruby
+cache: bundler
